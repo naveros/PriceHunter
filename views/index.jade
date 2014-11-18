@@ -1,0 +1,24 @@
+html
+  head
+    link(rel='stylesheet', href='http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css')
+  body
+    nav.navbar.navbar-default
+      .container-fluid
+        .navbar-header
+          a.navbar-brand(href='#') Price Hunter
+        div
+          ul.nav.navbar-nav
+            li.active
+              a(href='Shop') Search
+            li
+              a(href='UserInfo') Profile
+            li
+              a(href='#') Logout
+    .container
+      form(method='post', action='search', role='search')
+        .form-group
+          input.form-control(type='text', name='searchInput',id='searchInput',placeholder='Search')
+        button.btn.btn-default(type='button', id='searchButton') Submit
+      #itemsDiv
+    script(type='text/javascript' src='http://code.jquery.com/jquery-2.1.0.min.js')
+    script(type='text/javascript' src='javascripts/client.js')
