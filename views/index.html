@@ -1,0 +1,47 @@
+
+<html>
+  <head>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/stylesheets/searchbar.css"/>
+    <link rel="stylesheet" href="/stylesheets/item.css"/>
+  </head>
+  <body>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header"><a href="#" class="navbar-brand">Price Hunter</a></div>
+        <div>
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="Shop">Search</a></li>
+            <li><a href="UserInfo">Profile</a></li>
+            <li><a href="#">Logout</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="container">
+      <form method="post" action="search" role="search">
+        <div class="form-group">
+          <input id="searchInput" type="text" name="searchInput" placeholder="Search" class="form-control"/>
+        </div>
+        <button id="searchButton" type="button" class="btn btn-default">Submit</button>
+      </form>
+      <div class="searchbar-container">
+        <input id="searchInput" type="text" name="searchInput" placeholder="search" class="searchinput"/>
+        <input id="searchButton" type="button" value="search" class="searchbutton"/>
+      </div>
+       <div id="result-container">
+          <div class="itemcontainer">
+            <div class="item-left-container"><img src="https://cdn1.iconfinder.com/data/icons/black_and_gold/256/CPU-Z.png" class="itemicon"/></div>
+            <div class="item-middle-container">
+              <div class="item-middle-top-container"><span class="itemtitle">CPU Intel cpu-z</span></div>
+              <div class="item-middle-middle-container"><span class="itemdescription">Description du produit</span></div>
+              <div class="item-middle-bottom-container"></div>
+            </div>
+            <div class="item-right-container"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Best_Buy_Logo.svg/300px-Best_Buy_Logo.svg.png" class="itemsellericon"/><span class="itemprice">164.45$</span>
+              <input type="button" value="buy" class="buttonbuy"/>
+            </div>
+          </div>
+        </div>
+    </div>
+  </body>
+</html>
