@@ -18,61 +18,65 @@ function DrawBestBuyItem(input){
 
             
             var itemContainer = document.createElement("div"); 
-            itemContainer.class= "itemcontainer";
+            itemContainer.className= "itemcontainer";
             var itemLeftContainer = document.createElement("div"); 
-            itemLeftContainer.class = "itemicon";
+            itemLeftContainer.className = "item-left-container";
             var itemImage = document.createElement("img"); 
+            itemImage.className = "itemicon";
+
             var itemMiddleContainer = document.createElement("div"); 
-            itemMiddleContainer.class = "item-middle-container";
+            itemMiddleContainer.className = "item-middle-container";
             var itemMiddleTopContainer= document.createElement("div"); 
-            itemMiddleTopContainer.class = "item-middle-top-container";
+            itemMiddleTopContainer.className = "item-middle-top-container";
             var itemTitle = document.createElement("span"); 
-            itemTitle.class = "itemtitle";
+            itemTitle.className = "itemtitle";
             var itemMiddleMiddleContainer = document.createElement("div");
-            itemMiddleMiddleContainer.class = "item-middle-middle-container";
+            itemMiddleMiddleContainer.className = "item-middle-middle-container";
             var itemDescription = document.createElement("span");  
-            itemDescription.class = "itemdescription";
+            itemDescription.className = "itemdescription";
             var itemMiddleBottomContainer = document.createElement("div"); //TODO div for more info  
+            itemMiddleBottomContainer.className = "item-middle-bottom-container";
             var itemInfo = document.createElement("span");
+            itemInfo.className = "itemdescription"; // to do : custom css class
             var itemRightContainer = document.createElement("div"); 
-            itemRightContainer.class = "item-right-container";
+            itemRightContainer.className = "item-right-container";
             var sellerImage = document.createElement("img");
-            var itemPrice= document.createElement("span"); 
-            itemPrice.class = "itemprice";
+            sellerImage.className = "itemsellericon";
+            var itemPrice = document.createElement("span");
+            itemPrice.className = "itemprice";
             var buttonBuy= document.createElement("button"); 
-            buttonBuy.class = "buttonbuy";
+            buttonBuy.className = "buttonbuy";
+            buttonBuy.innerHTML = "Buy"
 
 
             itemImage.src = item.thumbnailImage;
             itemTitle.innerHTML = item.name;
-            itemDescription.innerHTML = item.shortDescription;
-            //sellerImage.src = "/images/bestbuylogo"; //TODO /////////////////////////
-            // itemInfo =  //todo if wanted
-            itemPrice = item.salePrice;
-
+            //itemDescription.innerHTML = item.manufacturer; //DOESNT FIT IN DIV WHEN TITLE TOO LONG, WAT DO?
+            sellerImage.src = "/images/BestBuy.png"; 
+            if(item.manufacturer != null){
+            itemInfo.innerHTML = item.manufacturer; 
+            }
+            itemPrice.innerHTML = item.salePrice;
 
             itemLeftContainer.appendChild(itemImage);
-            
             itemMiddleTopContainer.appendChild(itemTitle);
             itemMiddleMiddleContainer.appendChild(itemDescription);
             itemMiddleBottomContainer.appendChild(itemInfo)
             itemMiddleContainer.appendChild(itemMiddleTopContainer);
             itemMiddleContainer.appendChild(itemMiddleMiddleContainer);
             itemMiddleContainer.appendChild(itemMiddleBottomContainer);
-           /* itemRightContainer.appendChild(sellerImage);
+            itemRightContainer.appendChild(sellerImage);
             itemRightContainer.appendChild(itemPrice);
-            itemRightContainer.appendChild(buttonBuy);*/
+            itemRightContainer.appendChild(buttonBuy);
             itemContainer.appendChild(itemLeftContainer);
             itemContainer.appendChild(itemMiddleContainer)
-        //    itemContainer.appendChild(itemRightContainer);
-
+            itemContainer.appendChild(itemRightContainer);
             resultContainer.appendChild(itemContainer);
-
     }catch(err) {
         console.log("error : "+err);
         var error = document.createElement("span");
         error.innerHTML = "Désolé, aucun résultat pour cette recherche.";
-        error.class="error"
+        error.className="error"
         resultContainer.appendChild(error);
     }
 }
