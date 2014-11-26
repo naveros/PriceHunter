@@ -1,0 +1,502 @@
+{
+    "@": {
+        "xmlns": "http://webservices.amazon.com/AWSECommerceService/2011-08-01"
+    },
+    "OperationRequest": {
+        "RequestId": "d5d66bed-e378-4f60-aab9-d83d09bade95",
+        "Arguments": {
+            "Argument": [
+                {
+                    "@": {
+                        "Name": "Operation",
+                        "Value": "ItemSearch"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "Service",
+                        "Value": "AWSECommerceService"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "Signature",
+                        "Value": "i18j7dS5YLBklD/n9Qgj27T5eysjXA2A0y27nSI1o7c="
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "Region",
+                        "Value": "US"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "AssociateTag",
+                        "Value": "p07957-20"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "Version",
+                        "Value": "2009-10-01"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "Keywords",
+                        "Value": "nvidia"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "AWSAccessKeyId",
+                        "Value": "AKIAI43V7ZBTTCPVKXGA"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "Timestamp",
+                        "Value": "2014-11-21T01:36:34.678Z"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "SearchIndex",
+                        "Value": "Electronics"
+                    }
+                }
+            ]
+        },
+        "RequestProcessingTime": "0.1040250000000000"
+    },
+    "Items": {
+        "Request": {
+            "IsValid": "True",
+            "ItemSearchRequest": {
+                "Keywords": "nvidia",
+                "ResponseGroup": "Small",
+                "SearchIndex": "Electronics"
+            }
+        },
+        "TotalResults": "54133",
+        "TotalPages": "5414",
+        "MoreSearchResultsUrl": "http://www.amazon.com/gp/redirect.html?camp=2025&creative=386001&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch%3Fkeywords%3Dnvidia%26url%3Dsearch-alias%253Delectronics&linkCode=xm2&tag=p07957-20&SubscriptionId=AKIAI43V7ZBTTCPVKXGA",
+        "Item": [
+            {
+                "ASIN": "B00LM6KF7O",
+                "DetailPageURL": "http://www.amazon.com/NVIDIA-940-81761-2500-000-SHIELD-Tablet-WiFi/dp/B00LM6KF7O%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00LM6KF7O",
+                "ItemLinks": {
+                    "ItemLink": [
+                        {
+                            "Description": "Technical Details",
+                            "URL": "http://www.amazon.com/NVIDIA-940-81761-2500-000-SHIELD-Tablet-WiFi/dp/tech-data/B00LM6KF7O%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LM6KF7O"
+                        },
+                        {
+                            "Description": "Add To Baby Registry",
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00LM6KF7O%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LM6KF7O"
+                        },
+                        {
+                            "Description": "Add To Wedding Registry",
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00LM6KF7O%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LM6KF7O"
+                        },
+                        {
+                            "Description": "Add To Wishlist",
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00LM6KF7O%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LM6KF7O"
+                        },
+                        {
+                            "Description": "Tell A Friend",
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00LM6KF7O%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LM6KF7O"
+                        },
+                        {
+                            "Description": "All Customer Reviews",
+                            "URL": "http://www.amazon.com/review/product/B00LM6KF7O%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LM6KF7O"
+                        },
+                        {
+                            "Description": "All Offers",
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00LM6KF7O%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LM6KF7O"
+                        }
+                    ]
+                },
+                "ItemAttributes": {
+                    "Manufacturer": "NVIDIA",
+                    "ProductGroup": "Personal Computer",
+                    "Title": "NVIDIA SHIELD Tablet (WiFi)"
+                }
+            },
+            {
+                "ASIN": "B00IDG3IDO",
+                "DetailPageURL": "http://www.amazon.com/EVGA-Superclock-Dual-Link-Graphics-02G-P4-3753-KR/dp/B00IDG3IDO%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IDG3IDO",
+                "ItemLinks": {
+                    "ItemLink": [
+                        {
+                            "Description": "Technical Details",
+                            "URL": "http://www.amazon.com/EVGA-Superclock-Dual-Link-Graphics-02G-P4-3753-KR/dp/tech-data/B00IDG3IDO%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IDG3IDO"
+                        },
+                        {
+                            "Description": "Add To Baby Registry",
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00IDG3IDO%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IDG3IDO"
+                        },
+                        {
+                            "Description": "Add To Wedding Registry",
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00IDG3IDO%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IDG3IDO"
+                        },
+                        {
+                            "Description": "Add To Wishlist",
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00IDG3IDO%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IDG3IDO"
+                        },
+                        {
+                            "Description": "Tell A Friend",
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00IDG3IDO%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IDG3IDO"
+                        },
+                        {
+                            "Description": "All Customer Reviews",
+                            "URL": "http://www.amazon.com/review/product/B00IDG3IDO%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IDG3IDO"
+                        },
+                        {
+                            "Description": "All Offers",
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00IDG3IDO%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IDG3IDO"
+                        }
+                    ]
+                },
+                "ItemAttributes": {
+                    "Manufacturer": "EVGA",
+                    "ProductGroup": "Personal Computer",
+                    "Title": "EVGA GeForce GTX 750Ti Superclock w/G-SYNC Support 2GB GDDR5 128bit, Dual-Link DVI-I, HDMI, DP 1.2 Graphics Card (02G-P4-3753-KR)"
+                }
+            },
+            {
+                "ASIN": "B00DHW4HXY",
+                "ParentASIN": "B00OAXQ2LE",
+                "DetailPageURL": "http://www.amazon.com/EVGA-SuperClocked-Dual-Link-Graphics-02G-P4-2765-KR/dp/B00DHW4HXY%3Fpsc%3D1%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00DHW4HXY",
+                "ItemLinks": {
+                    "ItemLink": [
+                        {
+                            "Description": "Technical Details",
+                            "URL": "http://www.amazon.com/EVGA-SuperClocked-Dual-Link-Graphics-02G-P4-2765-KR/dp/tech-data/B00DHW4HXY%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DHW4HXY"
+                        },
+                        {
+                            "Description": "Add To Baby Registry",
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00DHW4HXY%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DHW4HXY"
+                        },
+                        {
+                            "Description": "Add To Wedding Registry",
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00DHW4HXY%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DHW4HXY"
+                        },
+                        {
+                            "Description": "Add To Wishlist",
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00DHW4HXY%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DHW4HXY"
+                        },
+                        {
+                            "Description": "Tell A Friend",
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00DHW4HXY%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DHW4HXY"
+                        },
+                        {
+                            "Description": "All Customer Reviews",
+                            "URL": "http://www.amazon.com/review/product/B00DHW4HXY%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DHW4HXY"
+                        },
+                        {
+                            "Description": "All Offers",
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00DHW4HXY%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DHW4HXY"
+                        }
+                    ]
+                },
+                "ItemAttributes": {
+                    "Manufacturer": "EVGA",
+                    "ProductGroup": "Personal Computer",
+                    "Title": "EVGA GeForce GTX760 SuperClocked w/EVGA ACX Cooler 2GB GDDR5 256bit, Dual-Link DVI-I, DVI-D, HDMI,DP, SLI Ready Graphics Card (02G-P4-2765-KR) Graphics Cards 02G-P4-2765-KR"
+                }
+            },
+            {
+                "ASIN": "B00NVODXR4",
+                "ParentASIN": "B00OAXPYXG",
+                "DetailPageURL": "http://www.amazon.com/EVGA-GeForce-Superclocked-Graphics-04G-P4-2974-KR/dp/B00NVODXR4%3Fpsc%3D1%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NVODXR4",
+                "ItemLinks": {
+                    "ItemLink": [
+                        {
+                            "Description": "Technical Details",
+                            "URL": "http://www.amazon.com/EVGA-GeForce-Superclocked-Graphics-04G-P4-2974-KR/dp/tech-data/B00NVODXR4%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                        },
+                        {
+                            "Description": "Add To Baby Registry",
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00NVODXR4%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                        },
+                        {
+                            "Description": "Add To Wedding Registry",
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00NVODXR4%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                        },
+                        {
+                            "Description": "Add To Wishlist",
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00NVODXR4%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                        },
+                        {
+                            "Description": "Tell A Friend",
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00NVODXR4%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                        },
+                        {
+                            "Description": "All Customer Reviews",
+                            "URL": "http://www.amazon.com/review/product/B00NVODXR4%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                        },
+                        {
+                            "Description": "All Offers",
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00NVODXR4%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                        }
+                    ]
+                },
+                "ItemAttributes": {
+                    "Manufacturer": "EVGA",
+                    "ProductGroup": "Personal Computer",
+                    "Title": "EVGA EVGA GeForce GTX 970 Superclocked ACX 2.0 4GB GDDR5 256bit, DVI-I, DVI-D, HDMI, DP SLI Ready Graphics Card Graphics Cards 04G-P4-2974-KR"
+                }
+            },
+            {
+                "ASIN": "B00NT9UT3M",
+                "ParentASIN": "B00OAXPTV8",
+                "DetailPageURL": "http://www.amazon.com/EVGA-GTX980-Superclocked-Graphics-04G-P4-2983-KR/dp/B00NT9UT3M%3Fpsc%3D1%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NT9UT3M",
+                "ItemLinks": {
+                    "ItemLink": [
+                        {
+                            "Description": "Technical Details",
+                            "URL": "http://www.amazon.com/EVGA-GTX980-Superclocked-Graphics-04G-P4-2983-KR/dp/tech-data/B00NT9UT3M%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NT9UT3M"
+                        },
+                        {
+                            "Description": "Add To Baby Registry",
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00NT9UT3M%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NT9UT3M"
+                        },
+                        {
+                            "Description": "Add To Wedding Registry",
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00NT9UT3M%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NT9UT3M"
+                        },
+                        {
+                            "Description": "Add To Wishlist",
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00NT9UT3M%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NT9UT3M"
+                        },
+                        {
+                            "Description": "Tell A Friend",
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00NT9UT3M%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NT9UT3M"
+                        },
+                        {
+                            "Description": "All Customer Reviews",
+                            "URL": "http://www.amazon.com/review/product/B00NT9UT3M%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NT9UT3M"
+                        },
+                        {
+                            "Description": "All Offers",
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00NT9UT3M%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NT9UT3M"
+                        }
+                    ]
+                },
+                "ItemAttributes": {
+                    "Manufacturer": "EVGA",
+                    "ProductGroup": "Personal Computer",
+                    "Title": "EVGA EVGA GTX980 Superclocked ACX 2.0 4GB GDDR5 256bit, DVI-I, DP x 3, HDMI, SLI Ready Graphics Card Graphics Cards 04G-P4-2983-KR"
+                }
+            },
+            {
+                "ASIN": "B00GWT8KXM",
+                "DetailPageURL": "http://www.amazon.com/ViewMax-NVIDIA-GeForce-EDITION-Express/dp/B00GWT8KXM%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00GWT8KXM",
+                "ItemLinks": {
+                    "ItemLink": [
+                        {
+                            "Description": "Technical Details",
+                            "URL": "http://www.amazon.com/ViewMax-NVIDIA-GeForce-EDITION-Express/dp/tech-data/B00GWT8KXM%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWT8KXM"
+                        },
+                        {
+                            "Description": "Add To Baby Registry",
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00GWT8KXM%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWT8KXM"
+                        },
+                        {
+                            "Description": "Add To Wedding Registry",
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00GWT8KXM%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWT8KXM"
+                        },
+                        {
+                            "Description": "Add To Wishlist",
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00GWT8KXM%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWT8KXM"
+                        },
+                        {
+                            "Description": "Tell A Friend",
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00GWT8KXM%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWT8KXM"
+                        },
+                        {
+                            "Description": "All Customer Reviews",
+                            "URL": "http://www.amazon.com/review/product/B00GWT8KXM%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWT8KXM"
+                        },
+                        {
+                            "Description": "All Offers",
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00GWT8KXM%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00GWT8KXM"
+                        }
+                    ]
+                },
+                "ItemAttributes": {
+                    "Manufacturer": "NVIDIA",
+                    "ProductGroup": "PC Accessory",
+                    "Title": "ViewMax NVIDIA GeForce GT 630 4GB BLACK EDITION GDDR3 PCI Express (PCIe) DVI Video Card w/HDMI & HDCP Support"
+                }
+            },
+            {
+                "ASIN": "B00LULVD40",
+                "DetailPageURL": "http://www.amazon.com/NVIDIA-SHIELD-LTE-Tablet-Unlocked/dp/B00LULVD40%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00LULVD40",
+                "ItemLinks": {
+                    "ItemLink": [
+                        {
+                            "Description": "Technical Details",
+                            "URL": "http://www.amazon.com/NVIDIA-SHIELD-LTE-Tablet-Unlocked/dp/tech-data/B00LULVD40%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LULVD40"
+                        },
+                        {
+                            "Description": "Add To Baby Registry",
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00LULVD40%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LULVD40"
+                        },
+                        {
+                            "Description": "Add To Wedding Registry",
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00LULVD40%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LULVD40"
+                        },
+                        {
+                            "Description": "Add To Wishlist",
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00LULVD40%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LULVD40"
+                        },
+                        {
+                            "Description": "Tell A Friend",
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00LULVD40%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LULVD40"
+                        },
+                        {
+                            "Description": "All Customer Reviews",
+                            "URL": "http://www.amazon.com/review/product/B00LULVD40%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LULVD40"
+                        },
+                        {
+                            "Description": "All Offers",
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00LULVD40%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LULVD40"
+                        }
+                    ]
+                },
+                "ItemAttributes": {
+                    "Manufacturer": "NVIDIA",
+                    "ProductGroup": "Wireless",
+                    "Title": "NVIDIA SHIELD 32GB 4G LTE Tablet, Black 8-Inch (AT&T, Unlocked)"
+                }
+            },
+            {
+                "ASIN": "B00KVKAOSM",
+                "DetailPageURL": "http://www.amazon.com/Nvidia-GeForce-900-12080-0000-000-Ultimate-Graphics/dp/B00KVKAOSM%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KVKAOSM",
+                "ItemLinks": {
+                    "ItemLink": [
+                        {
+                            "Description": "Technical Details",
+                            "URL": "http://www.amazon.com/Nvidia-GeForce-900-12080-0000-000-Ultimate-Graphics/dp/tech-data/B00KVKAOSM%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KVKAOSM"
+                        },
+                        {
+                            "Description": "Add To Baby Registry",
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00KVKAOSM%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KVKAOSM"
+                        },
+                        {
+                            "Description": "Add To Wedding Registry",
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00KVKAOSM%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KVKAOSM"
+                        },
+                        {
+                            "Description": "Add To Wishlist",
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00KVKAOSM%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KVKAOSM"
+                        },
+                        {
+                            "Description": "Tell A Friend",
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00KVKAOSM%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KVKAOSM"
+                        },
+                        {
+                            "Description": "All Customer Reviews",
+                            "URL": "http://www.amazon.com/review/product/B00KVKAOSM%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KVKAOSM"
+                        },
+                        {
+                            "Description": "All Offers",
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00KVKAOSM%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KVKAOSM"
+                        }
+                    ]
+                },
+                "ItemAttributes": {
+                    "Manufacturer": "Nvidia",
+                    "ProductGroup": "PC Accessory",
+                    "Title": "Nvidia GeForce GTX Titan Z 12 GB GDDR5 7.0 Gbps PCIe 3.0 x16 DVI-I DVI-D HDMI DP SLI 900-12080-0000-000 Ultimate Gaming Graphics Card"
+                }
+            },
+            {
+                "ASIN": "B00IYWAT5W",
+                "DetailPageURL": "http://www.amazon.com/Nvidia-GeForce-GDDR5-Express-Graphics/dp/B00IYWAT5W%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IYWAT5W",
+                "ItemLinks": {
+                    "ItemLink": [
+                        {
+                            "Description": "Technical Details",
+                            "URL": "http://www.amazon.com/Nvidia-GeForce-GDDR5-Express-Graphics/dp/tech-data/B00IYWAT5W%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IYWAT5W"
+                        },
+                        {
+                            "Description": "Add To Baby Registry",
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00IYWAT5W%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IYWAT5W"
+                        },
+                        {
+                            "Description": "Add To Wedding Registry",
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00IYWAT5W%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IYWAT5W"
+                        },
+                        {
+                            "Description": "Add To Wishlist",
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00IYWAT5W%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IYWAT5W"
+                        },
+                        {
+                            "Description": "Tell A Friend",
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00IYWAT5W%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IYWAT5W"
+                        },
+                        {
+                            "Description": "All Customer Reviews",
+                            "URL": "http://www.amazon.com/review/product/B00IYWAT5W%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IYWAT5W"
+                        },
+                        {
+                            "Description": "All Offers",
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00IYWAT5W%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IYWAT5W"
+                        }
+                    ]
+                },
+                "ItemAttributes": {
+                    "Manufacturer": "Nvidia",
+                    "ProductGroup": "PC Accessory",
+                    "Title": "Nvidia GeForce GTX 770 2GB GDDR5 PCI Express 3.0 Graphics Card"
+                }
+            },
+            {
+                "ASIN": "B00EIG47BK",
+                "ParentASIN": "B00OAXQ2LE",
+                "DetailPageURL": "http://www.amazon.com/EVGA-GeForce-DisplayPort-Graphics-04G-P4-2768-KR/dp/B00EIG47BK%3Fpsc%3D1%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00EIG47BK",
+                "ItemLinks": {
+                    "ItemLink": [
+                        {
+                            "Description": "Technical Details",
+                            "URL": "http://www.amazon.com/EVGA-GeForce-DisplayPort-Graphics-04G-P4-2768-KR/dp/tech-data/B00EIG47BK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                        },
+                        {
+                            "Description": "Add To Baby Registry",
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00EIG47BK%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                        },
+                        {
+                            "Description": "Add To Wedding Registry",
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00EIG47BK%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                        },
+                        {
+                            "Description": "Add To Wishlist",
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00EIG47BK%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                        },
+                        {
+                            "Description": "Tell A Friend",
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00EIG47BK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                        },
+                        {
+                            "Description": "All Customer Reviews",
+                            "URL": "http://www.amazon.com/review/product/B00EIG47BK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                        },
+                        {
+                            "Description": "All Offers",
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00EIG47BK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                        }
+                    ]
+                },
+                "ItemAttributes": {
+                    "Manufacturer": "EVGA",
+                    "ProductGroup": "Personal Computer",
+                    "Title": "EVGA GeForce GTX 760 SC 4GB DisplayPort HDMI DVI-I/DVI-D Graphics Card with ACX Cooler 04G-P4-2768-KR"
+                }
+            }
+        ]
+    }
+}

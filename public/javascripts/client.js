@@ -4,26 +4,27 @@ $('#searchButton').click(function(){
 	var input = document.getElementById("searchInput").value;
     console.log("recherche des mots clefs : "+input);
     $.ajax({url:"search",data:{key:input},success:function(result){
-        DrawBestBuyItem(result); //[0]
+       result = JSON.parse(result);
+       var resultContainer = document.getElementById("result-container");    
+       while(resultContainer.hasChildNodes()){
+        resultContainer.removeChild(resultContainer.lastChild);
+       }
+       console.log(result);
+        DrawBestBuyItem(result[0]);
+        DrawBestBuyItem(result[1]);  
     }});
 });
 
 function DrawBestBuyItem(input){
-
-    
     try { 
             var resultContainer = document.getElementById("result-container");
-            resultContainer.removeChild(resultContainer.firstChild);
-            var item = JSON.parse(input); 
-
-            
+            var item = input;  
             var itemContainer = document.createElement("div"); 
             itemContainer.className= "itemcontainer";
             var itemLeftContainer = document.createElement("div"); 
             itemLeftContainer.className = "item-left-container";
             var itemImage = document.createElement("img"); 
             itemImage.className = "itemicon";
-
             var itemMiddleContainer = document.createElement("div"); 
             itemMiddleContainer.className = "item-middle-container";
             var itemMiddleTopContainer= document.createElement("div"); 
@@ -46,18 +47,25 @@ function DrawBestBuyItem(input){
             itemPrice.className = "itemprice";
             var buttonBuy= document.createElement("button"); 
             buttonBuy.className = "buttonbuy";
-            buttonBuy.innerHTML = "Buy"
-
+            buttonBuy.innerHTML = "Buy";
 
             itemImage.src = item.thumbnailImage;
             itemTitle.innerHTML = item.name;
             //itemDescription.innerHTML = item.manufacturer; //DOESNT FIT IN DIV WHEN TITLE TOO LONG, WAT DO?
-            sellerImage.src = "/images/BestBuy.png"; 
+            switch(item.store){
+                case "bestbuy":
+                sellerImage.src = "/images/BestBuy.png";
+                break;
+                case "ebay":
+                sellerImage.src = "/images/Ebay.png";
+                break;
+            }             
             if(item.manufacturer != null){
-            itemInfo.innerHTML = item.manufacturer; 
+                itemInfo.innerHTML = item.manufacturer; 
+            }else{
+                itemInfo.innerHTML = ""; 
             }
             itemPrice.innerHTML = item.salePrice;
-
             itemLeftContainer.appendChild(itemImage);
             itemMiddleTopContainer.appendChild(itemTitle);
             itemMiddleMiddleContainer.appendChild(itemDescription);
@@ -73,6 +81,7 @@ function DrawBestBuyItem(input){
             itemContainer.appendChild(itemRightContainer);
             resultContainer.appendChild(itemContainer);
     }catch(err) {
+        throw err;
         console.log("error : "+err);
         var error = document.createElement("span");
         error.innerHTML = "Désolé, aucun résultat pour cette recherche.";
