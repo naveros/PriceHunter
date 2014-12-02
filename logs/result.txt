@@ -3,7 +3,7 @@
         "xmlns": "http://webservices.amazon.com/AWSECommerceService/2011-08-01"
     },
     "OperationRequest": {
-        "RequestId": "466f344c-5adc-4ce0-aa18-84f1346f7c27",
+        "RequestId": "075e3c1f-71ec-4c1d-b455-3daa92e3ba95",
         "Arguments": {
             "Argument": [
                 {
@@ -21,7 +21,7 @@
                 {
                     "@": {
                         "Name": "Signature",
-                        "Value": "N6h6envuNe7ZTm9ktpbg/cbSsC4ZzlHQec/5i+y2a7s="
+                        "Value": "LpUG5z9hpxAaWbrYa61PeKpMHsd8lz5NpPHYlbrGk+E="
                     }
                 },
                 {
@@ -45,7 +45,7 @@
                 {
                     "@": {
                         "Name": "Keywords",
-                        "Value": "cd"
+                        "Value": "dvd"
                     }
                 },
                 {
@@ -57,7 +57,13 @@
                 {
                     "@": {
                         "Name": "Timestamp",
-                        "Value": "2014-12-02T04:32:36.295Z"
+                        "Value": "2014-12-02T20:07:52.349Z"
+                    }
+                },
+                {
+                    "@": {
+                        "Name": "ResponseGroup",
+                        "Value": "OfferSummary"
                     }
                 },
                 {
@@ -68,432 +74,214 @@
                 }
             ]
         },
-        "RequestProcessingTime": "0.0586150000000000"
+        "RequestProcessingTime": "0.1277520000000000"
     },
     "Items": {
         "Request": {
             "IsValid": "True",
             "ItemSearchRequest": {
-                "Keywords": "cd",
-                "ResponseGroup": "Small",
+                "Keywords": "dvd",
+                "ResponseGroup": "OfferSummary",
                 "SearchIndex": "Electronics"
             }
         },
-        "TotalResults": "418450",
-        "TotalPages": "41845",
-        "MoreSearchResultsUrl": "http://www.amazon.com/gp/redirect.html?camp=2025&creative=386001&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch%3Fkeywords%3Dcd%26url%3Dsearch-alias%253Delectronics&linkCode=xm2&tag=p07957-20&SubscriptionId=AKIAI43V7ZBTTCPVKXGA",
+        "TotalResults": "194321",
+        "TotalPages": "19433",
+        "MoreSearchResultsUrl": "http://www.amazon.com/gp/redirect.html?camp=2025&creative=386001&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch%3Fkeywords%3Ddvd%26url%3Dsearch-alias%253Delectronics&linkCode=xm2&tag=p07957-20&SubscriptionId=AKIAI43V7ZBTTCPVKXGA",
         "Item": [
             {
-                "ASIN": "B00029U1DK",
-                "ParentASIN": "B003A4HBPA",
-                "DetailPageURL": "http://www.amazon.com/Verbatim-Branded-Recordable-50-Disc-94691/dp/B00029U1DK%3Fpsc%3D1%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00029U1DK",
-                "ItemLinks": {
-                    "ItemLink": [
-                        {
-                            "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/Verbatim-Branded-Recordable-50-Disc-94691/dp/tech-data/B00029U1DK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
-                        },
-                        {
-                            "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00029U1DK%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
-                        },
-                        {
-                            "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00029U1DK%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
-                        },
-                        {
-                            "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00029U1DK%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
-                        },
-                        {
-                            "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00029U1DK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
-                        },
-                        {
-                            "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00029U1DK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
-                        },
-                        {
-                            "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00029U1DK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
-                        }
-                    ]
-                },
-                "ItemAttributes": {
-                    "Manufacturer": "Verbatim",
-                    "ProductGroup": "CE",
-                    "Title": "Verbatim 700 MB 52x 80 Minute Branded Recordable Disc CD-R, 50-Disc Spindle 94691"
+                "ASIN": "B00081A2KY",
+                "ParentASIN": "B0053BG6SG",
+                "OfferSummary": {
+                    "LowestNewPrice": {
+                        "Amount": "999",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$9.99"
+                    },
+                    "LowestRefurbishedPrice": {
+                        "Amount": "797",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$7.97"
+                    },
+                    "TotalNew": "132",
+                    "TotalUsed": "0",
+                    "TotalCollectible": "0",
+                    "TotalRefurbished": "1"
                 }
             },
             {
-                "ASIN": "B003ZDNZSI",
-                "ParentASIN": "B003A4HBPA",
-                "DetailPageURL": "http://www.amazon.com/Verbatim-Minute-Branded-Recordable-Disc/dp/B003ZDNZSI%3Fpsc%3D1%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003ZDNZSI",
-                "ItemLinks": {
-                    "ItemLink": [
-                        {
-                            "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/Verbatim-Minute-Branded-Recordable-Disc/dp/tech-data/B003ZDNZSI%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
-                        },
-                        {
-                            "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB003ZDNZSI%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
-                        },
-                        {
-                            "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB003ZDNZSI%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
-                        },
-                        {
-                            "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB003ZDNZSI%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
-                        },
-                        {
-                            "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B003ZDNZSI%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
-                        },
-                        {
-                            "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B003ZDNZSI%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
-                        },
-                        {
-                            "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B003ZDNZSI%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
-                        }
-                    ]
-                },
-                "ItemAttributes": {
-                    "Manufacturer": "Verbatim",
-                    "ProductGroup": "CE",
-                    "Title": "Verbatim 700 MB 52x 80 Minute Branded Recordable Disc CD-R - 100-Disc Spindle, FFP 97458"
+                "ASIN": "B007F9XHAY",
+                "OfferSummary": {
+                    "LowestNewPrice": {
+                        "FormattedPrice": "Too low to display"
+                    },
+                    "LowestUsedPrice": {
+                        "Amount": "2499",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$24.99"
+                    },
+                    "LowestRefurbishedPrice": {
+                        "Amount": "2599",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$25.99"
+                    },
+                    "TotalNew": "5",
+                    "TotalUsed": "31",
+                    "TotalCollectible": "0",
+                    "TotalRefurbished": "8"
                 }
             },
             {
-                "ASIN": "B00006RVR5",
-                "DetailPageURL": "http://www.amazon.com/Memorex-700MB-52x-CD-R-Pack/dp/B00006RVR5%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00006RVR5",
-                "ItemLinks": {
-                    "ItemLink": [
-                        {
-                            "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/Memorex-700MB-52x-CD-R-Pack/dp/tech-data/B00006RVR5%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
-                        },
-                        {
-                            "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00006RVR5%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
-                        },
-                        {
-                            "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00006RVR5%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
-                        },
-                        {
-                            "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00006RVR5%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
-                        },
-                        {
-                            "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00006RVR5%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
-                        },
-                        {
-                            "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00006RVR5%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
-                        },
-                        {
-                            "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00006RVR5%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
-                        }
-                    ]
-                },
-                "ItemAttributes": {
-                    "Manufacturer": "Memtek",
-                    "ProductGroup": "CE",
-                    "Title": "Memorex 700MB 52x CD-R (10 -Pack)"
+                "ASIN": "B00HPMCO4Q",
+                "OfferSummary": {
+                    "LowestNewPrice": {
+                        "Amount": "7800",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$78.00"
+                    },
+                    "LowestUsedPrice": {
+                        "Amount": "4040",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$40.40"
+                    },
+                    "LowestRefurbishedPrice": {
+                        "Amount": "4299",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$42.99"
+                    },
+                    "TotalNew": "6",
+                    "TotalUsed": "19",
+                    "TotalCollectible": "0",
+                    "TotalRefurbished": "7"
                 }
             },
             {
-                "ASIN": "B000HCNZI0",
-                "DetailPageURL": "http://www.amazon.com/Sony-100CDQ80SP-Recordable-Media-Spindle/dp/B000HCNZI0%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000HCNZI0",
-                "ItemLinks": {
-                    "ItemLink": [
-                        {
-                            "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/Sony-100CDQ80SP-Recordable-Media-Spindle/dp/tech-data/B000HCNZI0%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
-                        },
-                        {
-                            "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB000HCNZI0%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
-                        },
-                        {
-                            "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB000HCNZI0%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
-                        },
-                        {
-                            "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB000HCNZI0%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
-                        },
-                        {
-                            "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B000HCNZI0%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
-                        },
-                        {
-                            "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B000HCNZI0%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
-                        },
-                        {
-                            "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B000HCNZI0%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
-                        }
-                    ]
-                },
-                "ItemAttributes": {
-                    "Manufacturer": "Sony",
-                    "ProductGroup": "CE",
-                    "Title": "Sony 100CDQ80SP CD-R Data Recordable Media, 100 Pack Spindle"
+                "ASIN": "B007BYLO4E",
+                "OfferSummary": {
+                    "LowestNewPrice": {
+                        "Amount": "3299",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$32.99"
+                    },
+                    "LowestUsedPrice": {
+                        "Amount": "1999",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$19.99"
+                    },
+                    "TotalNew": "5",
+                    "TotalUsed": "21",
+                    "TotalCollectible": "0",
+                    "TotalRefurbished": "0"
                 }
             },
             {
-                "ASIN": "B00009WO51",
-                "DetailPageURL": "http://www.amazon.com/Verbatim-Digital-Multicolor-Spindle-94488/dp/B00009WO51%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00009WO51",
-                "ItemLinks": {
-                    "ItemLink": [
-                        {
-                            "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/Verbatim-Digital-Multicolor-Spindle-94488/dp/tech-data/B00009WO51%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
-                        },
-                        {
-                            "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00009WO51%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
-                        },
-                        {
-                            "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00009WO51%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
-                        },
-                        {
-                            "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00009WO51%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
-                        },
-                        {
-                            "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00009WO51%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
-                        },
-                        {
-                            "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00009WO51%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
-                        },
-                        {
-                            "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00009WO51%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
-                        }
-                    ]
-                },
-                "ItemAttributes": {
-                    "Manufacturer": "Verbatim",
-                    "ProductGroup": "CE",
-                    "Title": "Verbatim Digital Vinyl 700 MB Multicolor CD-R Spindle 25 Discs 94488"
+                "ASIN": "B007F9XHBI",
+                "OfferSummary": {
+                    "LowestNewPrice": {
+                        "Amount": "3300",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$33.00"
+                    },
+                    "LowestUsedPrice": {
+                        "Amount": "1795",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$17.95"
+                    },
+                    "LowestRefurbishedPrice": {
+                        "Amount": "1990",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$19.90"
+                    },
+                    "TotalNew": "3",
+                    "TotalUsed": "32",
+                    "TotalCollectible": "0",
+                    "TotalRefurbished": "19"
                 }
             },
             {
-                "ASIN": "B00029U1DU",
-                "ParentASIN": "B003A4HBPA",
-                "DetailPageURL": "http://www.amazon.com/Verbatim-Branded-Recordable-100-Disc-94554/dp/B00029U1DU%3Fpsc%3D1%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00029U1DU",
-                "ItemLinks": {
-                    "ItemLink": [
-                        {
-                            "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/Verbatim-Branded-Recordable-100-Disc-94554/dp/tech-data/B00029U1DU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
-                        },
-                        {
-                            "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00029U1DU%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
-                        },
-                        {
-                            "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00029U1DU%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
-                        },
-                        {
-                            "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00029U1DU%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
-                        },
-                        {
-                            "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00029U1DU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
-                        },
-                        {
-                            "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00029U1DU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
-                        },
-                        {
-                            "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00029U1DU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
-                        }
-                    ]
-                },
-                "ItemAttributes": {
-                    "Manufacturer": "Verbatim",
-                    "ProductGroup": "CE",
-                    "Title": "Verbatim 700 MB 52x 80 Minute Branded Recordable Disc CD-R, 100-Disc Spindle 94554"
+                "ASIN": "B00EUY59Z8",
+                "OfferSummary": {
+                    "LowestNewPrice": {
+                        "FormattedPrice": "Too low to display"
+                    },
+                    "LowestUsedPrice": {
+                        "Amount": "4713",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$47.13"
+                    },
+                    "LowestRefurbishedPrice": {
+                        "Amount": "3996",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$39.96"
+                    },
+                    "TotalNew": "3",
+                    "TotalUsed": "43",
+                    "TotalCollectible": "0",
+                    "TotalRefurbished": "11"
                 }
             },
             {
-                "ASIN": "B003XYAUUU",
-                "DetailPageURL": "http://www.amazon.com/Jensen-Mountable-Vertical-Speakers-JEN-JMC-180A/dp/B003XYAUUU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003XYAUUU",
-                "ItemLinks": {
-                    "ItemLink": [
-                        {
-                            "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/Jensen-Mountable-Vertical-Speakers-JEN-JMC-180A/dp/tech-data/B003XYAUUU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
-                        },
-                        {
-                            "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB003XYAUUU%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
-                        },
-                        {
-                            "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB003XYAUUU%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
-                        },
-                        {
-                            "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB003XYAUUU%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
-                        },
-                        {
-                            "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B003XYAUUU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
-                        },
-                        {
-                            "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B003XYAUUU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
-                        },
-                        {
-                            "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B003XYAUUU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
-                        }
-                    ]
-                },
-                "ItemAttributes": {
-                    "Manufacturer": "Spectra Merchandising International, Inc.",
-                    "ProductGroup": "Receiver or Amplifier",
-                    "Title": "Jensen Wall Mountable Vertical Loading CD Player with Stereo Speakers JEN-JMC-180A"
+                "ASIN": "B00MAS9OYI",
+                "OfferSummary": {
+                    "LowestNewPrice": {
+                        "Amount": "4343",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$43.43"
+                    },
+                    "TotalNew": "5",
+                    "TotalUsed": "0",
+                    "TotalCollectible": "0",
+                    "TotalRefurbished": "0"
                 }
             },
             {
-                "ASIN": "B00006IAAN",
-                "DetailPageURL": "http://www.amazon.com/Maxell-Music-minute-700MB-Media/dp/B00006IAAN%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00006IAAN",
-                "ItemLinks": {
-                    "ItemLink": [
-                        {
-                            "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/Maxell-Music-minute-700MB-Media/dp/tech-data/B00006IAAN%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
-                        },
-                        {
-                            "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00006IAAN%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
-                        },
-                        {
-                            "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00006IAAN%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
-                        },
-                        {
-                            "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00006IAAN%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
-                        },
-                        {
-                            "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00006IAAN%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
-                        },
-                        {
-                            "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00006IAAN%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
-                        },
-                        {
-                            "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00006IAAN%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
-                        }
-                    ]
-                },
-                "ItemAttributes": {
-                    "Manufacturer": "Maxell",
-                    "ProductGroup": "CE",
-                    "Title": "Maxell Music 32x 80 minute / 700MB CD-R Media for Audio - 30 Pack Spindle (625335)"
+                "ASIN": "B00ICDAAX4",
+                "OfferSummary": {
+                    "LowestNewPrice": {
+                        "FormattedPrice": "Too low to display"
+                    },
+                    "LowestUsedPrice": {
+                        "Amount": "2929",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$29.29"
+                    },
+                    "LowestRefurbishedPrice": {
+                        "Amount": "3299",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$32.99"
+                    },
+                    "TotalNew": "5",
+                    "TotalUsed": "41",
+                    "TotalCollectible": "0",
+                    "TotalRefurbished": "3"
                 }
             },
             {
-                "ASIN": "B004VF4D9E",
-                "DetailPageURL": "http://www.amazon.com/GPX-HC221B-Compact-Player-Stereo/dp/B004VF4D9E%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB004VF4D9E",
-                "ItemLinks": {
-                    "ItemLink": [
-                        {
-                            "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/GPX-HC221B-Compact-Player-Stereo/dp/tech-data/B004VF4D9E%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
-                        },
-                        {
-                            "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB004VF4D9E%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
-                        },
-                        {
-                            "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB004VF4D9E%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
-                        },
-                        {
-                            "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB004VF4D9E%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
-                        },
-                        {
-                            "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B004VF4D9E%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
-                        },
-                        {
-                            "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B004VF4D9E%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
-                        },
-                        {
-                            "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B004VF4D9E%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
-                        }
-                    ]
-                },
-                "ItemAttributes": {
-                    "Manufacturer": "DPI",
-                    "ProductGroup": "Receiver or Amplifier",
-                    "Title": "GPX HC221B Compact CD Player Stereo Home Music System with AM/ FM Tuner"
+                "ASIN": "B00JIZ03GY",
+                "OfferSummary": {
+                    "LowestNewPrice": {
+                        "Amount": "8995",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$89.95"
+                    },
+                    "TotalNew": "3",
+                    "TotalUsed": "0",
+                    "TotalCollectible": "0",
+                    "TotalRefurbished": "0"
                 }
             },
             {
-                "ASIN": "B007NAITW6",
-                "DetailPageURL": "http://www.amazon.com/80min-Silver-Shinny-Surface-Shrink/dp/B007NAITW6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB007NAITW6",
-                "ItemLinks": {
-                    "ItemLink": [
-                        {
-                            "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/80min-Silver-Shinny-Surface-Shrink/dp/tech-data/B007NAITW6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
-                        },
-                        {
-                            "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB007NAITW6%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
-                        },
-                        {
-                            "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB007NAITW6%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
-                        },
-                        {
-                            "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB007NAITW6%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
-                        },
-                        {
-                            "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B007NAITW6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
-                        },
-                        {
-                            "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B007NAITW6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
-                        },
-                        {
-                            "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B007NAITW6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
-                        }
-                    ]
-                },
-                "ItemAttributes": {
-                    "Manufacturer": "AEC Group",
-                    "ProductGroup": "CE",
-                    "Title": "CD-R 52X 80min/700MB Silver Shinny Surface, 100 pcs Shrink Wrap"
+                "ASIN": "B0058AFRZA",
+                "OfferSummary": {
+                    "LowestNewPrice": {
+                        "Amount": "1799",
+                        "CurrencyCode": "USD",
+                        "FormattedPrice": "$17.99"
+                    },
+                    "TotalNew": "1",
+                    "TotalUsed": "0",
+                    "TotalCollectible": "0",
+                    "TotalRefurbished": "0"
                 }
             }
         ]

@@ -52,8 +52,8 @@ function DrawItem(input){
             buttonBuy.className = "buttonbuy";
             buttonBuy.innerHTML = "Buy";
               buttonBuy.onclick = function(){
-    window.location = item.url;return false;
-  };
+                    window.location = item.url;return false;
+                };
 
             itemImage.src = item.thumbnailImage;
             itemTitle.innerHTML = item.name;
@@ -64,9 +64,11 @@ function DrawItem(input){
                 break;
                 case "ebay":
                 sellerImage.src = "/images/Ebay.png";
+                sellerImage.className="itemsellericonebay";
                 break;
                 case "amazon":
                 sellerImage.src = "/images/Amazon.png";
+                
                 break;
             }             
             if(item.manufacturer != null){

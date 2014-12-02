@@ -1,6 +1,7 @@
 .itemcontainer {
   width:600px;
   height:125px;
+  margin:25 auto;
  background-color: #ffffff;
 border: 2px solid #999999;
 -moz-border-radius: 13px;
@@ -57,6 +58,7 @@ background-clip: padding-box;
 .itemicon {
   width:100px;
   height:100px;
+  margin-top: 12;
   
 }
 .itemtitle {
@@ -67,9 +69,14 @@ background-clip: padding-box;
  color: #f21212;
 }
 .itemsellericon {
- width:80px;
+ width:85px;
+ height:45px;
+   margin:2 auto;
 }
-
+.itemsellericonebay {
+ width:52px;
+ height:52px;
+}
 .buttonbuy {
     -moz-box-shadow:inset 0px 1px 7px 0px #97c4fe;
     -webkit-box-shadow:inset 0px 1px 7px 0px #97c4fe;

@@ -38,6 +38,7 @@
     text-decoration:none;
     text-shadow:0px 1px 0px #aade7c;
     margin-left: 20px;
+    width: 15%;
 }
 .searchbutton:hover {
     background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #5cb811), color-stop(1, #77d42a));
