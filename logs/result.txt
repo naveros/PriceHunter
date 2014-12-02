@@ -3,7 +3,7 @@
         "xmlns": "http://webservices.amazon.com/AWSECommerceService/2011-08-01"
     },
     "OperationRequest": {
-        "RequestId": "5cc3ab8d-0f71-49ea-adfb-80cc5c9ff254",
+        "RequestId": "466f344c-5adc-4ce0-aa18-84f1346f7c27",
         "Arguments": {
             "Argument": [
                 {
@@ -21,7 +21,7 @@
                 {
                     "@": {
                         "Name": "Signature",
-                        "Value": "ts/04MWswJOwAuN8mlNF3yyYubdTym51zUQVcMFUO7E="
+                        "Value": "N6h6envuNe7ZTm9ktpbg/cbSsC4ZzlHQec/5i+y2a7s="
                     }
                 },
                 {
@@ -45,7 +45,7 @@
                 {
                     "@": {
                         "Name": "Keywords",
-                        "Value": "nvidia 4gb"
+                        "Value": "cd"
                     }
                 },
                 {
@@ -57,7 +57,7 @@
                 {
                     "@": {
                         "Name": "Timestamp",
-                        "Value": "2014-11-21T01:41:46.347Z"
+                        "Value": "2014-12-02T04:32:36.295Z"
                     }
                 },
                 {
@@ -68,432 +68,432 @@
                 }
             ]
         },
-        "RequestProcessingTime": "0.2010670000000000"
+        "RequestProcessingTime": "0.0586150000000000"
     },
     "Items": {
         "Request": {
             "IsValid": "True",
             "ItemSearchRequest": {
-                "Keywords": "nvidia 4gb",
+                "Keywords": "cd",
                 "ResponseGroup": "Small",
                 "SearchIndex": "Electronics"
             }
         },
-        "TotalResults": "24795",
-        "TotalPages": "2480",
-        "MoreSearchResultsUrl": "http://www.amazon.com/gp/redirect.html?camp=2025&creative=386001&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch%3Fkeywords%3Dnvidia%2B4gb%26url%3Dsearch-alias%253Delectronics&linkCode=xm2&tag=p07957-20&SubscriptionId=AKIAI43V7ZBTTCPVKXGA",
+        "TotalResults": "418450",
+        "TotalPages": "41845",
+        "MoreSearchResultsUrl": "http://www.amazon.com/gp/redirect.html?camp=2025&creative=386001&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch%3Fkeywords%3Dcd%26url%3Dsearch-alias%253Delectronics&linkCode=xm2&tag=p07957-20&SubscriptionId=AKIAI43V7ZBTTCPVKXGA",
         "Item": [
             {
-                "ASIN": "B00KJGYOGG",
-                "DetailPageURL": "http://www.amazon.com/EVGA-GeForce-GDDR5-Graphics-04G-P4-3748-KR/dp/B00KJGYOGG%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KJGYOGG",
+                "ASIN": "B00029U1DK",
+                "ParentASIN": "B003A4HBPA",
+                "DetailPageURL": "http://www.amazon.com/Verbatim-Branded-Recordable-50-Disc-94691/dp/B00029U1DK%3Fpsc%3D1%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00029U1DK",
                 "ItemLinks": {
                     "ItemLink": [
                         {
                             "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/EVGA-GeForce-GDDR5-Graphics-04G-P4-3748-KR/dp/tech-data/B00KJGYOGG%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOGG"
+                            "URL": "http://www.amazon.com/Verbatim-Branded-Recordable-50-Disc-94691/dp/tech-data/B00029U1DK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
                         },
                         {
                             "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00KJGYOGG%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOGG"
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00029U1DK%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
                         },
                         {
                             "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00KJGYOGG%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOGG"
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00029U1DK%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
                         },
                         {
                             "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00KJGYOGG%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOGG"
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00029U1DK%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
                         },
                         {
                             "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00KJGYOGG%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOGG"
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00029U1DK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
                         },
                         {
                             "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00KJGYOGG%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOGG"
+                            "URL": "http://www.amazon.com/review/product/B00029U1DK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
                         },
                         {
                             "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00KJGYOGG%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOGG"
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00029U1DK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DK"
                         }
                     ]
                 },
                 "ItemAttributes": {
-                    "Manufacturer": "EVGA",
-                    "ProductGroup": "Personal Computer",
-                    "Title": "EVGA GeForce GT 740 4GB GDDR5 Dual DVI mHDMI Graphics Cards 04G-P4-3748-KR"
+                    "Manufacturer": "Verbatim",
+                    "ProductGroup": "CE",
+                    "Title": "Verbatim 700 MB 52x 80 Minute Branded Recordable Disc CD-R, 50-Disc Spindle 94691"
                 }
             },
             {
-                "ASIN": "B00E0N49C8",
-                "ParentASIN": "B00OAXQ2LE",
-                "DetailPageURL": "http://www.amazon.com/EVGA-GeForce-GTX760-Dual-Link-04G-P4-3768-KR/dp/B00E0N49C8%3Fpsc%3D1%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00E0N49C8",
+                "ASIN": "B003ZDNZSI",
+                "ParentASIN": "B003A4HBPA",
+                "DetailPageURL": "http://www.amazon.com/Verbatim-Minute-Branded-Recordable-Disc/dp/B003ZDNZSI%3Fpsc%3D1%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003ZDNZSI",
                 "ItemLinks": {
                     "ItemLink": [
                         {
                             "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/EVGA-GeForce-GTX760-Dual-Link-04G-P4-3768-KR/dp/tech-data/B00E0N49C8%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E0N49C8"
+                            "URL": "http://www.amazon.com/Verbatim-Minute-Branded-Recordable-Disc/dp/tech-data/B003ZDNZSI%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
                         },
                         {
                             "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00E0N49C8%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E0N49C8"
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB003ZDNZSI%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
                         },
                         {
                             "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00E0N49C8%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E0N49C8"
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB003ZDNZSI%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
                         },
                         {
                             "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00E0N49C8%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E0N49C8"
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB003ZDNZSI%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
                         },
                         {
                             "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00E0N49C8%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E0N49C8"
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B003ZDNZSI%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
                         },
                         {
                             "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00E0N49C8%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E0N49C8"
+                            "URL": "http://www.amazon.com/review/product/B003ZDNZSI%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
                         },
                         {
                             "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00E0N49C8%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E0N49C8"
+                            "URL": "http://www.amazon.com/gp/offer-listing/B003ZDNZSI%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003ZDNZSI"
                         }
                     ]
                 },
                 "ItemAttributes": {
-                    "Manufacturer": "EVGA",
-                    "ProductGroup": "Personal Computer",
-                    "Title": "EVGA GeForce GTX760 FTW with ACX Cooler 4GB GDDR5 256Bit Dual-Link DVI-I DVI-D HDMI DP SLI Ready 04G-P4-3768-KR"
+                    "Manufacturer": "Verbatim",
+                    "ProductGroup": "CE",
+                    "Title": "Verbatim 700 MB 52x 80 Minute Branded Recordable Disc CD-R - 100-Disc Spindle, FFP 97458"
                 }
             },
             {
-                "ASIN": "B00KJGYOBQ",
-                "DetailPageURL": "http://www.amazon.com/EVGA-GeForce-Superclocked-Graphics-04G-P4-2744-KR/dp/B00KJGYOBQ%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KJGYOBQ",
+                "ASIN": "B00006RVR5",
+                "DetailPageURL": "http://www.amazon.com/Memorex-700MB-52x-CD-R-Pack/dp/B00006RVR5%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00006RVR5",
                 "ItemLinks": {
                     "ItemLink": [
                         {
                             "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/EVGA-GeForce-Superclocked-Graphics-04G-P4-2744-KR/dp/tech-data/B00KJGYOBQ%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOBQ"
+                            "URL": "http://www.amazon.com/Memorex-700MB-52x-CD-R-Pack/dp/tech-data/B00006RVR5%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
                         },
                         {
                             "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00KJGYOBQ%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOBQ"
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00006RVR5%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
                         },
                         {
                             "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00KJGYOBQ%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOBQ"
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00006RVR5%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
                         },
                         {
                             "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00KJGYOBQ%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOBQ"
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00006RVR5%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
                         },
                         {
                             "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00KJGYOBQ%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOBQ"
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00006RVR5%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
                         },
                         {
                             "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00KJGYOBQ%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOBQ"
+                            "URL": "http://www.amazon.com/review/product/B00006RVR5%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
                         },
                         {
                             "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00KJGYOBQ%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00KJGYOBQ"
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00006RVR5%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006RVR5"
                         }
                     ]
                 },
                 "ItemAttributes": {
-                    "Manufacturer": "EVGA",
-                    "ProductGroup": "Personal Computer",
-                    "Title": "EVGA GeForce GT 740 Superclocked Single Slot 4GB DDR3 Graphics Cards 04G-P4-2744-KR"
+                    "Manufacturer": "Memtek",
+                    "ProductGroup": "CE",
+                    "Title": "Memorex 700MB 52x CD-R (10 -Pack)"
                 }
             },
             {
-                "ASIN": "B00NVODXR4",
-                "ParentASIN": "B00OAXPYXG",
-                "DetailPageURL": "http://www.amazon.com/EVGA-GeForce-Superclocked-Graphics-04G-P4-2974-KR/dp/B00NVODXR4%3Fpsc%3D1%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NVODXR4",
+                "ASIN": "B000HCNZI0",
+                "DetailPageURL": "http://www.amazon.com/Sony-100CDQ80SP-Recordable-Media-Spindle/dp/B000HCNZI0%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000HCNZI0",
                 "ItemLinks": {
                     "ItemLink": [
                         {
                             "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/EVGA-GeForce-Superclocked-Graphics-04G-P4-2974-KR/dp/tech-data/B00NVODXR4%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                            "URL": "http://www.amazon.com/Sony-100CDQ80SP-Recordable-Media-Spindle/dp/tech-data/B000HCNZI0%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
                         },
                         {
                             "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00NVODXR4%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB000HCNZI0%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
                         },
                         {
                             "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00NVODXR4%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB000HCNZI0%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
                         },
                         {
                             "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00NVODXR4%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB000HCNZI0%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
                         },
                         {
                             "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00NVODXR4%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B000HCNZI0%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
                         },
                         {
                             "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00NVODXR4%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                            "URL": "http://www.amazon.com/review/product/B000HCNZI0%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
                         },
                         {
                             "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00NVODXR4%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NVODXR4"
+                            "URL": "http://www.amazon.com/gp/offer-listing/B000HCNZI0%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000HCNZI0"
                         }
                     ]
                 },
                 "ItemAttributes": {
-                    "Manufacturer": "EVGA",
-                    "ProductGroup": "Personal Computer",
-                    "Title": "EVGA EVGA GeForce GTX 970 Superclocked ACX 2.0 4GB GDDR5 256bit, DVI-I, DVI-D, HDMI, DP SLI Ready Graphics Card Graphics Cards 04G-P4-2974-KR"
+                    "Manufacturer": "Sony",
+                    "ProductGroup": "CE",
+                    "Title": "Sony 100CDQ80SP CD-R Data Recordable Media, 100 Pack Spindle"
                 }
             },
             {
-                "ASIN": "B00EIG47BK",
-                "ParentASIN": "B00OAXQ2LE",
-                "DetailPageURL": "http://www.amazon.com/EVGA-GeForce-DisplayPort-Graphics-04G-P4-2768-KR/dp/B00EIG47BK%3Fpsc%3D1%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00EIG47BK",
+                "ASIN": "B00009WO51",
+                "DetailPageURL": "http://www.amazon.com/Verbatim-Digital-Multicolor-Spindle-94488/dp/B00009WO51%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00009WO51",
                 "ItemLinks": {
                     "ItemLink": [
                         {
                             "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/EVGA-GeForce-DisplayPort-Graphics-04G-P4-2768-KR/dp/tech-data/B00EIG47BK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                            "URL": "http://www.amazon.com/Verbatim-Digital-Multicolor-Spindle-94488/dp/tech-data/B00009WO51%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
                         },
                         {
                             "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00EIG47BK%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00009WO51%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
                         },
                         {
                             "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00EIG47BK%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00009WO51%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
                         },
                         {
                             "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00EIG47BK%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00009WO51%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
                         },
                         {
                             "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00EIG47BK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00009WO51%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
                         },
                         {
                             "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00EIG47BK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                            "URL": "http://www.amazon.com/review/product/B00009WO51%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
                         },
                         {
                             "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00EIG47BK%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EIG47BK"
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00009WO51%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00009WO51"
                         }
                     ]
                 },
                 "ItemAttributes": {
-                    "Manufacturer": "EVGA",
-                    "ProductGroup": "Personal Computer",
-                    "Title": "EVGA GeForce GTX 760 SC 4GB DisplayPort HDMI DVI-I/DVI-D Graphics Card with ACX Cooler 04G-P4-2768-KR"
+                    "Manufacturer": "Verbatim",
+                    "ProductGroup": "CE",
+                    "Title": "Verbatim Digital Vinyl 700 MB Multicolor CD-R Spindle 25 Discs 94488"
                 }
             },
             {
-                "ASIN": "B00F3P3REI",
-                "DetailPageURL": "http://www.amazon.com/Zotac-GeForce-Synergy-PCI-Express-ZT-60413-10L/dp/B00F3P3REI%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3P3REI",
+                "ASIN": "B00029U1DU",
+                "ParentASIN": "B003A4HBPA",
+                "DetailPageURL": "http://www.amazon.com/Verbatim-Branded-Recordable-100-Disc-94554/dp/B00029U1DU%3Fpsc%3D1%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00029U1DU",
                 "ItemLinks": {
                     "ItemLink": [
                         {
                             "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/Zotac-GeForce-Synergy-PCI-Express-ZT-60413-10L/dp/tech-data/B00F3P3REI%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00F3P3REI"
+                            "URL": "http://www.amazon.com/Verbatim-Branded-Recordable-100-Disc-94554/dp/tech-data/B00029U1DU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
                         },
                         {
                             "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00F3P3REI%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00F3P3REI"
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00029U1DU%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
                         },
                         {
                             "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00F3P3REI%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00F3P3REI"
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00029U1DU%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
                         },
                         {
                             "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00F3P3REI%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00F3P3REI"
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00029U1DU%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
                         },
                         {
                             "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00F3P3REI%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00F3P3REI"
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00029U1DU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
                         },
                         {
                             "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00F3P3REI%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00F3P3REI"
+                            "URL": "http://www.amazon.com/review/product/B00029U1DU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
                         },
                         {
                             "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00F3P3REI%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00F3P3REI"
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00029U1DU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00029U1DU"
                         }
                     ]
                 },
                 "ItemAttributes": {
-                    "Manufacturer": "Zotac",
-                    "ProductGroup": "Personal Computer",
-                    "Title": "Zotac NVIDIA GeForce GT 630 Synergy Edition 4GB DDR3 2DVI/Mini HDMI PCI-Express Video Card ZT-60413-10L"
+                    "Manufacturer": "Verbatim",
+                    "ProductGroup": "CE",
+                    "Title": "Verbatim 700 MB 52x 80 Minute Branded Recordable Disc CD-R, 100-Disc Spindle 94554"
                 }
             },
             {
-                "ASIN": "B00NTBS72A",
-                "DetailPageURL": "http://www.amazon.com/EVGA-GeForce-Superclocked-PCI-Express-04G-P4-3748-KR/dp/B00NTBS72A%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NTBS72A",
+                "ASIN": "B003XYAUUU",
+                "DetailPageURL": "http://www.amazon.com/Jensen-Mountable-Vertical-Speakers-JEN-JMC-180A/dp/B003XYAUUU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003XYAUUU",
                 "ItemLinks": {
                     "ItemLink": [
                         {
                             "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/EVGA-GeForce-Superclocked-PCI-Express-04G-P4-3748-KR/dp/tech-data/B00NTBS72A%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NTBS72A"
+                            "URL": "http://www.amazon.com/Jensen-Mountable-Vertical-Speakers-JEN-JMC-180A/dp/tech-data/B003XYAUUU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
                         },
                         {
                             "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00NTBS72A%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NTBS72A"
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB003XYAUUU%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
                         },
                         {
                             "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00NTBS72A%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NTBS72A"
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB003XYAUUU%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
                         },
                         {
                             "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00NTBS72A%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NTBS72A"
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB003XYAUUU%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
                         },
                         {
                             "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00NTBS72A%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NTBS72A"
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B003XYAUUU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
                         },
                         {
                             "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00NTBS72A%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NTBS72A"
+                            "URL": "http://www.amazon.com/review/product/B003XYAUUU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
                         },
                         {
                             "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00NTBS72A%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00NTBS72A"
+                            "URL": "http://www.amazon.com/gp/offer-listing/B003XYAUUU%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003XYAUUU"
                         }
                     ]
                 },
                 "ItemAttributes": {
-                    "Manufacturer": "EVGA",
-                    "ProductGroup": "PC Accessory",
-                    "Title": "EVGA NVIDIA GeForce GT 740 Superclocked 4GB GDDR5 2DVI/Mini HDMI PCI-Express Video Card (04G-P4-3748-KR)"
+                    "Manufacturer": "Spectra Merchandising International, Inc.",
+                    "ProductGroup": "Receiver or Amplifier",
+                    "Title": "Jensen Wall Mountable Vertical Loading CD Player with Stereo Speakers JEN-JMC-180A"
                 }
             },
             {
-                "ASIN": "B008Y8PNRA",
-                "DetailPageURL": "http://www.amazon.com/EVGA-GeForce-4096MB-Graphics-04G-P4-2647-KR/dp/B008Y8PNRA%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB008Y8PNRA",
+                "ASIN": "B00006IAAN",
+                "DetailPageURL": "http://www.amazon.com/Maxell-Music-minute-700MB-Media/dp/B00006IAAN%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00006IAAN",
                 "ItemLinks": {
                     "ItemLink": [
                         {
                             "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/EVGA-GeForce-4096MB-Graphics-04G-P4-2647-KR/dp/tech-data/B008Y8PNRA%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008Y8PNRA"
+                            "URL": "http://www.amazon.com/Maxell-Music-minute-700MB-Media/dp/tech-data/B00006IAAN%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
                         },
                         {
                             "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB008Y8PNRA%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008Y8PNRA"
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00006IAAN%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
                         },
                         {
                             "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB008Y8PNRA%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008Y8PNRA"
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00006IAAN%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
                         },
                         {
                             "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB008Y8PNRA%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008Y8PNRA"
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00006IAAN%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
                         },
                         {
                             "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B008Y8PNRA%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008Y8PNRA"
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B00006IAAN%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
                         },
                         {
                             "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B008Y8PNRA%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008Y8PNRA"
+                            "URL": "http://www.amazon.com/review/product/B00006IAAN%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
                         },
                         {
                             "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B008Y8PNRA%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008Y8PNRA"
+                            "URL": "http://www.amazon.com/gp/offer-listing/B00006IAAN%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00006IAAN"
                         }
                     ]
                 },
                 "ItemAttributes": {
-                    "Manufacturer": "EVGA",
-                    "ProductGroup": "Personal Computer",
-                    "Title": "EVGA GeForce GT 640 4096MB GDDR3 Single Slot, Dual DVI and mHDMI Graphics Card 04G-P4-2647-KR"
+                    "Manufacturer": "Maxell",
+                    "ProductGroup": "CE",
+                    "Title": "Maxell Music 32x 80 minute / 700MB CD-R Media for Audio - 30 Pack Spindle (625335)"
                 }
             },
             {
-                "ASIN": "B00E4MQOE6",
-                "DetailPageURL": "http://www.amazon.com/MSI-DisplayPort-PCI-Express-N760-4GD5/dp/B00E4MQOE6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00E4MQOE6",
+                "ASIN": "B004VF4D9E",
+                "DetailPageURL": "http://www.amazon.com/GPX-HC221B-Compact-Player-Stereo/dp/B004VF4D9E%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB004VF4D9E",
                 "ItemLinks": {
                     "ItemLink": [
                         {
                             "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/MSI-DisplayPort-PCI-Express-N760-4GD5/dp/tech-data/B00E4MQOE6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E4MQOE6"
+                            "URL": "http://www.amazon.com/GPX-HC221B-Compact-Player-Stereo/dp/tech-data/B004VF4D9E%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
                         },
                         {
                             "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00E4MQOE6%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E4MQOE6"
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB004VF4D9E%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
                         },
                         {
                             "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00E4MQOE6%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E4MQOE6"
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB004VF4D9E%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
                         },
                         {
                             "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00E4MQOE6%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E4MQOE6"
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB004VF4D9E%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
                         },
                         {
                             "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00E4MQOE6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E4MQOE6"
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B004VF4D9E%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
                         },
                         {
                             "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00E4MQOE6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E4MQOE6"
+                            "URL": "http://www.amazon.com/review/product/B004VF4D9E%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
                         },
                         {
                             "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00E4MQOE6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00E4MQOE6"
+                            "URL": "http://www.amazon.com/gp/offer-listing/B004VF4D9E%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004VF4D9E"
                         }
                     ]
                 },
                 "ItemAttributes": {
-                    "Manufacturer": "MSI COMPUTER",
-                    "ProductGroup": "Personal Computer",
-                    "Title": "MSI NVIDIA GeForce GTX 760 Gaming OC 4GB GDDR5 2DVI/HDMI/DisplayPort PCI-Express Video Card N760 TF 4GD5/OC"
+                    "Manufacturer": "DPI",
+                    "ProductGroup": "Receiver or Amplifier",
+                    "Title": "GPX HC221B Compact CD Player Stereo Home Music System with AM/ FM Tuner"
                 }
             },
             {
-                "ASIN": "B00EUAFX6C",
-                "DetailPageURL": "http://www.amazon.com/NVIDIA-GeForce-DisplayPort-PCI-Express-ZT-70406-10P/dp/B00EUAFX6C%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00EUAFX6C",
+                "ASIN": "B007NAITW6",
+                "DetailPageURL": "http://www.amazon.com/80min-Silver-Shinny-Surface-Shrink/dp/B007NAITW6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB007NAITW6",
                 "ItemLinks": {
                     "ItemLink": [
                         {
                             "Description": "Technical Details",
-                            "URL": "http://www.amazon.com/NVIDIA-GeForce-DisplayPort-PCI-Express-ZT-70406-10P/dp/tech-data/B00EUAFX6C%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EUAFX6C"
+                            "URL": "http://www.amazon.com/80min-Silver-Shinny-Surface-Shrink/dp/tech-data/B007NAITW6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
                         },
                         {
                             "Description": "Add To Baby Registry",
-                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00EUAFX6C%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EUAFX6C"
+                            "URL": "http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB007NAITW6%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
                         },
                         {
                             "Description": "Add To Wedding Registry",
-                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00EUAFX6C%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EUAFX6C"
+                            "URL": "http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB007NAITW6%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
                         },
                         {
                             "Description": "Add To Wishlist",
-                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00EUAFX6C%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EUAFX6C"
+                            "URL": "http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB007NAITW6%26SubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
                         },
                         {
                             "Description": "Tell A Friend",
-                            "URL": "http://www.amazon.com/gp/pdp/taf/B00EUAFX6C%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EUAFX6C"
+                            "URL": "http://www.amazon.com/gp/pdp/taf/B007NAITW6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
                         },
                         {
                             "Description": "All Customer Reviews",
-                            "URL": "http://www.amazon.com/review/product/B00EUAFX6C%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EUAFX6C"
+                            "URL": "http://www.amazon.com/review/product/B007NAITW6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
                         },
                         {
                             "Description": "All Offers",
-                            "URL": "http://www.amazon.com/gp/offer-listing/B00EUAFX6C%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EUAFX6C"
+                            "URL": "http://www.amazon.com/gp/offer-listing/B007NAITW6%3FSubscriptionId%3DAKIAI43V7ZBTTCPVKXGA%26tag%3Dp07957-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007NAITW6"
                         }
                     ]
                 },
                 "ItemAttributes": {
-                    "Manufacturer": "Zotac",
-                    "ProductGroup": "Personal Computer",
-                    "Title": "ZOTAC NVIDIA GeForce GTX 760 4GB GDDR5 2DVI/HDMI/DisplayPort PCI-Express Video Card (ZT-70406-10P)"
+                    "Manufacturer": "AEC Group",
+                    "ProductGroup": "CE",
+                    "Title": "CD-R 52X 80min/700MB Silver Shinny Surface, 100 pcs Shrink Wrap"
                 }
             }
         ]

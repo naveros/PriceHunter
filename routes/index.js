@@ -5,36 +5,35 @@ var ebay = require('ebayapi');
 var amazon = require('amazonapi');
 /* GET home page. */
 router.get('/', function(req, res) {
-  res.render('index', { title: 'Price Hunter' });
+	res.render('index', { title: 'Price Hunter' });
 });
 
 router.get('/search', function(req, res) {
 	var finalResult = [];
 	console.log(req.query.key);	
+	//BESTBUY request
 	testBestbuy.searchItems(req.query.key, function(err, bestBuyItem){
 		var result = [];
 		if(err) throw err ;
 		result.push(bestBuyItem);
 		var params = {
-  			'OPERATION-NAME': 'findItemsByKeywords',
+			'OPERATION-NAME': 'findItemsByKeywords',
 			'keywords': req.query.key
 		}
-		//request ebay
+		//EBAY request
 		ebay.searchItems(params, function (err, ebayItem) { 
-  			if(err) throw err;
-  			//console.log("Ebay result: "+JSON.stringify(data));
-  			//finalResult.add(data);
-  			result.push(ebayItem);
-  			//amazon resquest
+			if(err) throw err;
+			result.push(ebayItem);
+  			//AMAZON request
   			var params2 = {
   				keywords: req.query.key,
   				category: "Electronics"
   			}
   			amazon.searchItems(params2, function (err, amazonitem){
-  				//result.push(amazonitem);
+  				result.push(amazonitem);
   				res.send(JSON.stringify(result));
   			});  			
-		});
+  		});
 	});
 	
 });
@@ -42,7 +41,7 @@ router.get('/search', function(req, res) {
 router.post('/search', function(req, res) {
 	console.log(req.query.key);
 	testBestbuy.searchItems(req.query.key, function(err, result){
-	res.send(JSON.stringify(result));
+		res.send(JSON.stringify(result));
 	});
 });
 

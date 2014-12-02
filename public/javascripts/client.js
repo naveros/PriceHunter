@@ -4,37 +4,40 @@ $('#searchButton').click(function(){
 	var input = document.getElementById("searchInput").value;
     console.log("recherche des mots clefs : "+input);
     $.ajax({url:"search",data:{key:input},success:function(result){
-       result = JSON.parse(result);
-       var resultContainer = document.getElementById("result-container");    
-       while(resultContainer.hasChildNodes()){
+
+     result = JSON.parse(result);
+     var resultContainer = document.getElementById("result-container");    
+     while(resultContainer.hasChildNodes()){
         resultContainer.removeChild(resultContainer.lastChild);
-       }
-       console.log(result);
-        DrawBestBuyItem(result[0]);
-        DrawBestBuyItem(result[1]);  
-    }});
+    }
+    console.log(result);
+    DrawItem(result[0]);
+    DrawItem(result[1]);  
+    DrawItem(result[2]);
+
+}});
 });
 
-function DrawBestBuyItem(input){
+function DrawItem(input){
     try { 
-            var resultContainer = document.getElementById("result-container");
-            var item = input;  
-            var itemContainer = document.createElement("div"); 
-            itemContainer.className= "itemcontainer";
-            var itemLeftContainer = document.createElement("div"); 
-            itemLeftContainer.className = "item-left-container";
-            var itemImage = document.createElement("img"); 
-            itemImage.className = "itemicon";
-            var itemMiddleContainer = document.createElement("div"); 
-            itemMiddleContainer.className = "item-middle-container";
-            var itemMiddleTopContainer= document.createElement("div"); 
-            itemMiddleTopContainer.className = "item-middle-top-container";
-            var itemTitle = document.createElement("span"); 
-            itemTitle.className = "itemtitle";
-            var itemMiddleMiddleContainer = document.createElement("div");
-            itemMiddleMiddleContainer.className = "item-middle-middle-container";
-            var itemDescription = document.createElement("span");  
-            itemDescription.className = "itemdescription";
+        var resultContainer = document.getElementById("result-container");
+        var item = input;  
+        var itemContainer = document.createElement("div"); 
+        itemContainer.className= "itemcontainer";
+        var itemLeftContainer = document.createElement("div"); 
+        itemLeftContainer.className = "item-left-container";
+        var itemImage = document.createElement("img"); 
+        itemImage.className = "itemicon";
+        var itemMiddleContainer = document.createElement("div"); 
+        itemMiddleContainer.className = "item-middle-container";
+        var itemMiddleTopContainer= document.createElement("div"); 
+        itemMiddleTopContainer.className = "item-middle-top-container";
+        var itemTitle = document.createElement("span"); 
+        itemTitle.className = "itemtitle";
+        var itemMiddleMiddleContainer = document.createElement("div");
+        itemMiddleMiddleContainer.className = "item-middle-middle-container";
+        var itemDescription = document.createElement("span");  
+        itemDescription.className = "itemdescription";
             var itemMiddleBottomContainer = document.createElement("div"); //TODO div for more info  
             itemMiddleBottomContainer.className = "item-middle-bottom-container";
             var itemInfo = document.createElement("span");
@@ -48,6 +51,9 @@ function DrawBestBuyItem(input){
             var buttonBuy= document.createElement("button"); 
             buttonBuy.className = "buttonbuy";
             buttonBuy.innerHTML = "Buy";
+              buttonBuy.onclick = function(){
+    window.location = item.url;return false;
+  };
 
             itemImage.src = item.thumbnailImage;
             itemTitle.innerHTML = item.name;
@@ -58,6 +64,9 @@ function DrawBestBuyItem(input){
                 break;
                 case "ebay":
                 sellerImage.src = "/images/Ebay.png";
+                break;
+                case "amazon":
+                sellerImage.src = "/images/Amazon.png";
                 break;
             }             
             if(item.manufacturer != null){
@@ -80,12 +89,12 @@ function DrawBestBuyItem(input){
             itemContainer.appendChild(itemMiddleContainer)
             itemContainer.appendChild(itemRightContainer);
             resultContainer.appendChild(itemContainer);
-    }catch(err) {
-        throw err;
-        console.log("error : "+err);
-        var error = document.createElement("span");
-        error.innerHTML = "Désolé, aucun résultat pour cette recherche.";
-        error.className="error"
-        resultContainer.appendChild(error);
+        }catch(err) {
+            throw err;
+            console.log("error : "+err);
+            var error = document.createElement("span");
+            error.innerHTML = "Désolé, aucun résultat pour cette recherche.";
+            error.className="error"
+            resultContainer.appendChild(error);
+        }
     }
-}
